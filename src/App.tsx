@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      auto gladiators
+      auto gladiators!!!
     </>
   )
 }
