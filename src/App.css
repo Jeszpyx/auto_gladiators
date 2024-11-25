@@ -1,0 +1,14 @@
+.fade-image {
+    width: 100vw; /* Adjust size as needed */
+    height: 100vh; /* Maintain aspect ratio */
+    opacity: 0; /* Start hidden */
+    transition: opacity 1s ease; /* Transition effect for opacity */
+  }
+  
+  .fade-in {
+    opacity: 1; /* Fully visible */
+  }
+  
+  .fade-out {
+    opacity: 0; /* Fully hidden */
+  }
